@@ -1,2 +1,0 @@
-# BookManager
-javaweb project
